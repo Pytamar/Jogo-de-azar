@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author itama
+ *
+ */
+module JogoAzar {
+}
